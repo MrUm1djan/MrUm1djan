@@ -1,0 +1,4 @@
+uyga vazifa:
+1. Visual studioni o`rnatish
+2. GitHubda yangi repasitory ochib unga yangi fayl qushish
+3. Utgan mavzuni qaytarish
